@@ -1,2 +1,2 @@
-java javac my android studio
-git fimisafe
+java is javac my android studio
+git is fimisafe
